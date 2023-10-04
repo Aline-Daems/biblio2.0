@@ -1,0 +1,14 @@
+body{
+    background: url("https://madimado.files.wordpress.com/2012/09/dsc_0632.jpg");
+    background-size: 100%;
+}
+
+.fade-in-text {
+    color:white;
+    opacity: 0; /* L'élément est initialement invisible */
+    transition: opacity 1s ease-in-out; /* Animation de fondu en 1 seconde */
+;
+}
+.fade-in {
+    opacity: 1; /* Rendre l'élément visible */
+}

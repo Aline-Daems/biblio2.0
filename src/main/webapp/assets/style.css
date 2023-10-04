@@ -1,0 +1,14 @@
+body{
+
+
+    margin:0;
+    overflow: hidden;
+}
+
+#congrats{
+    position: absolute;
+    top:0;
+    left:0;
+    transition: top 2s, left 2s;
+    color:white;
+}
